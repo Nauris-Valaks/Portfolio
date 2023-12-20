@@ -2,7 +2,7 @@
   "homepage": "https://nauris-valaks.github.io/portfolio",
   "name": "base-template",
   "version": "1.0.0",
-  "description": "Portfolio page",
+  "description": "Portfolio",
   "proxy": "http://localhost:8080",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
     "mobx-react-lite": "^3.3.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-router-hash-link": "^2.4.3",
     "sass": "^1.51.0",
     "save-dev": "0.0.1-security"
   },
